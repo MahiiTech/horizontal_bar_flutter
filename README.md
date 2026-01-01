@@ -131,4 +131,6 @@ flutter run
 
 ### Screenshots
 
-*(Add screenshots of your horizontal bar with pointer and TextField here.)*
+Horizontal bar with dynamic ranges:
+
+![Horizontal Bar](assets/images/horizontal_bar.png)
