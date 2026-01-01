@@ -133,4 +133,5 @@ flutter run
 
 Horizontal bar with dynamic ranges:
 
-![Horizontal Bar](assets/images/horizontal_bar.png)
+<img src="assets/images/horizontal_bar.png" alt="Horizontal Bar" width="400" height="200">
+
